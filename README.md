@@ -31,7 +31,7 @@ El proyecto incluye funcionalidades para guardar información en una base de dat
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tuusuario/literalura.git
+   git clone https://github.com/Zajitario/challenge-literalura.git
    cd literalura
    ```
 
