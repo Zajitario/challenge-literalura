@@ -53,7 +53,7 @@ src/main/java/com/challenge/literalura/
 ├── model/           # Entidades (Libro, Autor, DatosLibro...)
 ├── repository/      # Interfaces de repositorio (Spring Data JPA)
 ├── service/         # Lógica de negocio
-├── controller/      # Controladores REST
+├── principal/       # Menú principal y flujo de la app
 └── LiteraluraApp.java
 ```
 
